@@ -57,7 +57,7 @@ This report supports both objectives with clear, data-driven recommendations.
 - Filter panel for product and state
 
 > 📌 *Equips leadership with a snapshot of performance across key dimensions.*
-!(Report_Pages/Executive_Summary.png)
+![Executive_Summary](Report_Pages/Executive_Summary.png)
 ---
 
 ### 2️⃣ Shipping Metrics
@@ -71,7 +71,7 @@ This report supports both objectives with clear, data-driven recommendations.
 - Breakdown by product, state, region
 
 > 📌 *Supports logistics planning and potential cost-saving strategies.*
-!(Report_Pages/Shipping_Metrics.png)
+![Shipping Metrics](Report_Pages/Shipping_Metrics.png)
 ---
 
 ### 3️⃣ Market Basket Analysis
@@ -84,7 +84,7 @@ This report supports both objectives with clear, data-driven recommendations.
 - Visuals linking primary + secondary products
 
 > 📌 *Informs product bundling and promotional strategies to increase AOV.*
-!(Report_Pages/Market_Basket_Analysis.png)
+![Market Basket Analysis](Report_Pages/Market_Basket_Analysis.png)
 ---
 
 ## 📊 Sample KPIs & Metrics
